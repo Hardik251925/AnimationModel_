@@ -1,0 +1,165 @@
+{
+    "m_SelectedDeviceId": "RZ8MA3CT7CV",
+    "m_SelectedProcess": {
+        "deviceId": "3cbed723",
+        "name": "com.kutumb.animationmodel",
+        "processId": 16742,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "3cbed723",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 15871,
+            "exited": true
+        },
+        {
+            "deviceId": "3cbed723",
+            "name": "com.miui.home",
+            "processId": 4262,
+            "exited": false
+        },
+        {
+            "deviceId": "3cbed723",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 20630,
+            "exited": true
+        },
+        {
+            "deviceId": "3cbed723",
+            "name": "com.kutumb.animationmodel",
+            "processId": 1777,
+            "exited": true
+        },
+        {
+            "deviceId": "3cbed723",
+            "name": "com.kutumb.animationmodel",
+            "processId": 13123,
+            "exited": true
+        },
+        {
+            "deviceId": "3cbed723",
+            "name": "com.kutumb.animationmodel",
+            "processId": 16742,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8MA3CT7CV",
+            "name": "com.sec.android.app.myfiles",
+            "processId": 18327,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8MA3CT7CV",
+            "name": "com.sec.android.app.launcher",
+            "processId": 13317,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8MA3CT7CV",
+            "name": "com.kutumb.animationmodel",
+            "processId": 838,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8MA3CT7CV",
+            "name": "com.kutumb.animationmodel",
+            "processId": 928,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "D:\\AiCharcter\\CharacAnim",
+            "D:\\AiCharcter\\CharacAnim"
+        ]
+    },
+    "m_QueryLayoutSettings": {
+        "LastLayoutSaveLocation": "",
+        "LastScreenshotSaveLocation": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 2
+}

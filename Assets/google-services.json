@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585714368332",
+    "project_id": "kutumb-d7313",
+    "storage_bucket": "kutumb-d7313.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585714368332:android:3ba963d3c3c3756981d9e9",
+        "android_client_info": {
+          "package_name": "com.kutumb.animationmodel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqN00coXnXbzG-pda9cPpHQEYjN0INz_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
