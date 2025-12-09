@@ -79,9 +79,9 @@ public class LoginWithGoogle : MonoBehaviour
 
             if (task.IsFaulted)
             {
-                SetLoginPanelActive(false);
-                SetErrorMessage("");
-                SetGameContentActive(true);
+                //SetLoginPanelActive(false);
+                //SetErrorMessage("");
+                //SetGameContentActive(true);
                 // Yahan asli error pakda jayega
                 string errorMsg = "Google Error: " + task.Exception.Flatten().InnerExceptions[0].Message;
                 Debug.LogError(errorMsg);
@@ -93,9 +93,9 @@ public class LoginWithGoogle : MonoBehaviour
             // Google Success Check
             if (task.Result == null || string.IsNullOrEmpty(task.Result.IdToken))
             {
-                SetLoginPanelActive(false);
-                SetErrorMessage("");
-                SetGameContentActive(true);
+                //SetLoginPanelActive(false);
+                //SetErrorMessage("");
+                //SetGameContentActive(true);
                 Debug.LogError("Google Success but ID Token is NULL!");
                 Enqueue(() => SetErrorMessage("Google ID Token missing!"));
                 return;
@@ -117,9 +117,9 @@ public class LoginWithGoogle : MonoBehaviour
 
                 if (authTask.IsFaulted)
                 {
-                    SetLoginPanelActive(false);
-                    SetErrorMessage("");
-                    SetGameContentActive(true);
+                    //SetLoginPanelActive(false);
+                    //SetErrorMessage("");
+                    //SetGameContentActive(true);
                     string fbError = "Firebase Error: " + authTask.Exception.Flatten().InnerExceptions[0].Message;
                     Debug.LogError(fbError);
                     Enqueue(() => SetErrorMessage(fbError));
